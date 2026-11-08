@@ -17,7 +17,7 @@ Is there a "sweet spot" between total work experience and years in the specific 
 ---
 3. Data Sourcing
 Dataset: Ask A Manager Salary Survey 2021, 28,225 responses and 18 columns. One row is one respondent.
-Source: [add the link or where you got the file, e.g. the Digitalley Drive project brief]
+Source: The dataset was gotten as a project for my internship "C:\Users\HP\Downloads\Copy of Ask A Manager Salary Survey 2021 (Responses).xlsx"
 Collected by: an open online survey shared through the Ask A Manager blog.
 Key columns: age bracket, industry, job title, annual salary, additional compensation, currency, country, state, city, years of experience (overall and in the field), education, gender and race.
 ---
